@@ -1,0 +1,5 @@
+{
+  "name": "Arsip Kita",
+  "description": "A digital clothesline for your thoughts and feelings. Save your memories on a virtual red thread, visualized as hanging notes. Uses IndexedDB for storage and Gemini for sentiment analysis.",
+  "requestFramePermissions": []
+}
